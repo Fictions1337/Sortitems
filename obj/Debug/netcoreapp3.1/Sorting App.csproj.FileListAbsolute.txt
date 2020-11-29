@@ -1,0 +1,13 @@
+C:\Users\Bogi\Documents\C\Sorting App\bin\Debug\netcoreapp3.1\Sorting App.exe
+C:\Users\Bogi\Documents\C\Sorting App\bin\Debug\netcoreapp3.1\Sorting App.deps.json
+C:\Users\Bogi\Documents\C\Sorting App\bin\Debug\netcoreapp3.1\Sorting App.runtimeconfig.json
+C:\Users\Bogi\Documents\C\Sorting App\bin\Debug\netcoreapp3.1\Sorting App.runtimeconfig.dev.json
+C:\Users\Bogi\Documents\C\Sorting App\bin\Debug\netcoreapp3.1\Sorting App.dll
+C:\Users\Bogi\Documents\C\Sorting App\bin\Debug\netcoreapp3.1\Sorting App.pdb
+C:\Users\Bogi\Documents\C\Sorting App\obj\Debug\netcoreapp3.1\Sorting App.csprojAssemblyReference.cache
+C:\Users\Bogi\Documents\C\Sorting App\obj\Debug\netcoreapp3.1\Sorting App.AssemblyInfoInputs.cache
+C:\Users\Bogi\Documents\C\Sorting App\obj\Debug\netcoreapp3.1\Sorting App.AssemblyInfo.cs
+C:\Users\Bogi\Documents\C\Sorting App\obj\Debug\netcoreapp3.1\Sorting App.csproj.CoreCompileInputs.cache
+C:\Users\Bogi\Documents\C\Sorting App\obj\Debug\netcoreapp3.1\Sorting App.dll
+C:\Users\Bogi\Documents\C\Sorting App\obj\Debug\netcoreapp3.1\Sorting App.pdb
+C:\Users\Bogi\Documents\C\Sorting App\obj\Debug\netcoreapp3.1\Sorting App.genruntimeconfig.cache

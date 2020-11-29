@@ -1,0 +1,4 @@
+Bike;A fucking bike, mate.;399.99
+Car;What I wish I had.;799.99
+Truck;Dunno what to write.;1599.99
+Fuck;hehe funny number;69
